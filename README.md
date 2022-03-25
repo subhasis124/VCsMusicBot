@@ -39,7 +39,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/subhasis124/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 - Click the below button to watch the video tutorial on deploying
 
